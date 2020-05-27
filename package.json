@@ -3,7 +3,7 @@
 	"displayName": "Renumber folder",
 	"description": "Renumber folder files adding 00# prefix.",
 	"version": "1.0.0",
-	"publisher": "@drodsou",
+	"publisher": "drodsou",
 	"icon": "icon.png",
 	"repository": {
 		"type" : "git",
