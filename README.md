@@ -1,5 +1,7 @@
 # Renumber Folder
 
+Visual Studio Code Extension
+
 Press `ctrl+shift+3` to rename all the files if the folder of your current selected file, adding a 00# prefix to them.
 
 ## What for?
